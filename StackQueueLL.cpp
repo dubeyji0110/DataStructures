@@ -1,3 +1,7 @@
+// CODE FOR IMPLEMENTATION OF LINKED LIST ON STACK AND QUEUE
+// STACK AND QUEUE ARE OPERATED USING SINGLE AND DOUBLE POINTER
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -263,7 +267,7 @@ void quedob(){
 int main(){   // Main function
     int ch;
     do{
-        cout << "\n\tMAIN MENU\n1. Stack using Singly Linked List\n2. Queue using Singly Linked List\n3. Stack using Doubly Linked List\n4. Queue using Doubly Linked List\n5. Exit\n";
+        cout << "\n\tMAIN MENU\n1. Stack using Single Pointer\n2. Queue using Single Pointer\n3. Stack using Double Pointer\n4. Queue using Double Pointer\n5. Exit\n";
         cout << "Enter your choice: ";
         cin >> ch;
         if(ch == 1)
