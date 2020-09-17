@@ -3,7 +3,7 @@
 
 
 #include<bits/stdc++.h>
-#include<vector>
+
 using namespace std;
 
 void sel_sort(vector<int> &v, int n){
