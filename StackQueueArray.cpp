@@ -1,3 +1,7 @@
+//   CODE FOR OPERATIONS ON STACK AND QUEUE
+//   OPERATIONS ARE DONE USING ARRAY REPRESENTATION
+
+
 #include<bits/stdc++.h>
 #define MAX 10
 using namespace std;
